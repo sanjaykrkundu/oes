@@ -1,0 +1,9 @@
+{"question":"M.S.Excel में करेंसी ऑप्शन किस Bar में होता है","a1":"Formatting Toolbar","a2":"Standard Toolbar","a3":"Status Bar","a4":"Formula bar","ans":"a1"},
+{"question":"M.S. EXCEL में Macro ऑप्शन किस मेनू में होता है","a1":"Insert","a2":"Format","a3":"Tools","a4":"Data","ans":"a3"},
+{"question":"M.S. Excel में सिर्फ date डालने के लिए किस फंक्शन का यूज किया जाता है?","a1":"Today","a2":"Now","a3":"Time","a4":"Calendar","ans":"a1"},
+{"question":"MS Excel मेंsa Remainder को calculate करने के लिए किस Function का उपयोग किया जाता है ?","a1":"INT ( )","a2":"FACT ( )","a3":"MOD ( )","a4":"DIV ( )","ans":"a3"},
+{"question":"MS Excel में Fill option किस Menu में होता है ?","a1":"View","a2":"Format","a3":"Tools","a4":"Edit","ans":"a4"},
+{"question":"एक एक्सेल वर्कबुक ………… का संग्रह है?","a1":"Workbooks","a2":"Worksheets","a3":"Charts and Slides","a4":"Data","ans":"a2"},
+{"question":"M.S.Excel में इनमें से कौन सा data type नहीं होता है","a1":"Number","a2":"Currency","a3":"Label","a4":"Date/Time","ans":"a3"},
+{"question":"Excel में Sort Option किस मेनू में होता हैं","a1":"Edit","a2":"Format","a3":"Tool","a4":"Data","ans":"a4"},
+{"question":"इनमें से कौन सा चार्ट M.S. Excel में नहीं होता है","a1":"Scatter","a2":"Line","a3":"Doughnut","a4":"Graph","ans":"a4"}

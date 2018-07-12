@@ -1,0 +1,8 @@
+{"question":"End key ……………………………","a1":"कर्सर को लाइन के अंत में पंहुचा देती है |(Moves the cursor end of the line)","a2":"कर्सर को डॉक्यूमेंट के अंत में पंहुचा देती है |(Moves the cursor end of the document)","a3":"कर्सर को पेराग्राफ के अंत में पंहुचा देती है |(Moves the cursor end of the paragraph)","a4":"कर्सर को स्क्रीन के अंत में पंहुचा देती है |(Moves the cursor end of the screen)","ans":"a1"},
+{"question":"MS-Office है |","a1":"एप्लीकेशन सॉफ्टवेयर(Application Software)","a2":"सिस्टम सॉफ्टवेयर (System Software)","a3":"ऑपरेटिंग सिस्टम (Operating System)","a4":"उपरोक्त सभी |(All of Above)","ans":"a1"},
+{"question":"Ms – Word में किस लेआउट में पेज का मार्जिन दिखाई देता है |","a1":"Outline layout","a2":"Web layout","a3":"Normal layout","a4":"Print layout","ans":"a4"},
+{"question":"निम्न में से कौनसा office suite नहीं है |","a1":"MS-Office","a2":"Lotus Office","a3":"Star Office","a4":"Close Office","ans":"a4"},
+{"question":"फॉरमेटिंग टूलबार में फॉन्ट की Minimum व Maximum साइज़ होती है","a1":"8, 68","a2":"8, 70","a3":"6, 68","a4":"8, 72","ans":"a4"},
+{"question":"किसी पेराग्राफ में दो पंक्तियों के बीच की दूरी को ……………… कहते है|","a1":"Spacing","a2":"Word Spacing","a3":"Line Spacing","a4":"Row Spacing","ans":"a3"},
+{"question":"पंक्तियों में line spacing सामान्यत: होती है |","a1":"1.5","a2":"2.0","a3":"0.5","a4":"1.0","ans":"a4"},
+{"question":"MS-Word 2003 में बनी हुई फाइल का एक्सटेंशन होता है |","a1":".doc","a2":".docx","a3":".ppt","a4":".exe","ans":"a1"}

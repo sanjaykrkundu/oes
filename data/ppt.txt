@@ -1,0 +1,8 @@
+{"question":" इनमे से कौनसा PowerPoint का view नहीं है |","a1":"Slide Show view","a2":"Slide Sorter view","a3":"Normal view","a4":"Outline view","ans":"a4"},
+{"question":"PowerPoint Presentation का Extension क्या होता है |","a1":".POT","a2":".PPT","a3":".PTP","a4":".PPE","ans":"a2"},
+{"question":"PowerPoint presentation, में new फाइल बनाने की shortcut key क्या है|","a1":"Ctrl + N","a2":"Ctrl + S","a3":"Ctrl + M","a4":"Shift + N","ans":"a1"},
+{"question":"Run Dialog Box से Power Point को Open करने के लिए क्या लिखा जाता है","a1":"PowerPoint","a2":"Pwrpoint","a3":"Powerpnt","a4":"Powerpint","ans":"a3"},
+{"question":"Presentation बनाने के लिए किस प्रोग्राम का उपयोग किया जाता है","a1":"Excel","a2":"PowerPoint","a3":"Access","a4":"Outlook","ans":"a2"},
+{"question":"Current Presentation में नई slide insert करने की शॉर्टकट key है |","a1":"Ctrl + O","a2":"Ctrl + M","a3":"Ctrl + N","a4":"Ctrl + F","ans":"a2"},
+{"question":"Action Buttons का आप्शन किस मेन्यु में होता है","a1":"Tools","a2":"Format","a3":"Window","a4":"Slide Show","ans":"a4"},
+{"question":"पॉवर पॉइंट slide में Speaker Notes बनाने के लिए किस आप्शन का Use किया जाता है |","a1":"Slide Note","a2":"Short Notes","a3":"Sound Note","a4":"Notes View","ans":"a4"}

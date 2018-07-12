@@ -1,2 +1,5 @@
  if question is marked as red then after selecting answer and jump to another question question is still marked as unattamped.
  min time to attampt is taking as submit enable before time to finish
+disable copy paste
+disable right click
+disable dev-option

@@ -4,16 +4,18 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PixelAcademy Examination System</title>
+    <title>Zycus Examination System</title>
     <link rel="icon" href="./img/logo.png">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
     <link rel="stylesheet" href="./css/styles.css">
 </head>
 
 <body>
+	<div id="website">
+	
     <div class="container-fluid" id="container-data">
         <div class="jumbotron"  id="mainData">
-            <div class="logo"><h1 class="text-center"><b>Pixel<span class="academy">Academy</span></b></h1><h2 class="text-center"><b>Examination System</b></h2></div>
+            <div class="logo"><h1 class="text-center"><b class="company">Zycus</b></h1><h2 class="text-center"><b>Examination System</b></h2></div>
            
             <div id="data" class="container-fluid">
                 
@@ -23,14 +25,14 @@
                     <div class="text-left" id="loginBox" class="row">
                         <div class="col-md-4 col-md-offset-4">
                             <label>Name</label>
-                            <input type="text" placeholder="Name" class="form-control" name="name" autofocus required>
+                            <input type="text" placeholder="Name" class="form-control" name="name" autofocus required value="sanjay kundu">
                         </div>
                          <div class="col-md-4 col-md-offset-4">
                             <label>Date of Birth</label>
-                            <input type="date" placeholder="Date Of Birth [DD.MM.YYYY]" class="form-control" name="dob" autofocus required>
+                            <input type="date" placeholder="Date Of Birth [YYYY-MM-DD]" class="form-control" name="dob" required value="1991-05-30">
                         </div>
                          <div class="col-md-4 col-md-offset-4">
-                            <button class="btn btn-primary btn-block" type="submit">Login </button>
+                            <button class="btn btn-primary btn-block" type="submit" id="goFullScreen">Login </button>
                         </div>
                     </div>
                 </form>
@@ -42,7 +44,7 @@
             </div>
         </div>
     </div>
-
+</div>
 <script type="text/javascript" src="js/jquery.min.js"></script>
 <script type="text/javascript" src="js/fileSaver.js"></script>
 <script type="text/javascript" src="js/script.js"></script>

@@ -1,35 +1,8 @@
 {
-	"course":"DCA",
 	"users": [
- 		{"name":"ANAMIKA MAHAPATRA","dob":"4/10/1999"},
-{"name":"ANJANA KUILA","dob":"7/27/2001"},
-{"name":"HARAPRIYA RANA","dob":"3/7/2000"},
-{"name":"LIPIKA SENAPATI","dob":"4/5/1999"},
-{"name":"MANISHA DAS","dob":"11/20/2000"},
-{"name":"MOUMITA MAITY","dob":"3/3/2000"},
-{"name":"MOUSUMI PRADHAN","dob":"3/15/2000"},
-{"name":"PAMPA MISHRA","dob":"10/12/1998"},
-{"name":"PAROMITA DUBEY","dob":"4/19/1999"},
-{"name":"PRATIMA DANDAPAT","dob":"2/4/1999"},
-{"name":"PRIYANKA DEY","dob":"7/12/1999"},
-{"name":"PRIYANKA SHIT","dob":"3/18/1998"},
-{"name":"RINKU SINGH","dob":"2/3/1998"},
-{"name":"RUBI GHOSH","dob":"8/20/1999"},
-{"name":"SAMPA DUBEY","dob":"4/21/1998"},
-{"name":"SHILA RANI PAUL","dob":"2/14/2000"},
-{"name":"SUJATA DEHURI","dob":"1/22/2000"},
-{"name":"SUMITRA PATRA","dob":"2/4/1999"},
-{"name":"SUMITRA SINGH","dob":"6/18/1998"},
-{"name":"ALTAF RAZAA AFTAB","dob":"2/28/2002"},
-{"name":"ASHIF ALAM","dob":"7/30/1999"},
-{"name":"DEBASISH KUMAR SHOW","dob":"15/12/1999"},
-{"name":"DEBASISH LENKA","dob":"1/12/2001"},
-{"name":"MD NIYAZ HUSSAIN","dob":"9/1/1998"},
-{"name":"MD SHAMSHER ALAM","dob":"3/15/1999"},
-{"name":"MOHANMAD ISTIYAK","dob":"1/7/2001"},
-{"name":"RAJENDRA DANDAPAT","dob":"3/4/1999"},
-{"name":"SHANKAR BERA","dob":"6/7/2002"},
-{"name":"SUSHMITA KUILA","dob":"4/1/1999"},
-{"name":"SANJAY","dob":"5/30/1991"}
+ 		{
+ 			"name":"SANJAY KUNDU",
+ 			"dob":"5/30/1991"
+ 		}
  	]
 }

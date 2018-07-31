@@ -2,9 +2,19 @@
 	font-family: 'Open Sans',sans-serif;
 	color: #444e5b;
 }
+#website{
+	width:100%;
+	height:100vh;
+}
+#website:-webkit-full-screen, #website:-ms-full-screen, #website:-moz-full-screen, #website:full-screen{
+	width:100%;
+	height:100vh;
+	border:10px solid red;
+	color:red !important;
+}
 
-.academy{
-	color:#2196F3;
+.company{
+	color:#FFAA00;
 }
 
 .container-fluid{
@@ -22,6 +32,11 @@
 	padding:5px;
 }
 
+li{
+	padding:5px;
+	font-size:21px;
+	font-weight:200;
+}
 form{
 	padding-top: 20px;
 }
@@ -60,22 +75,6 @@ hr{
 	animation: 1s bounceIn;
 }
 
-
-.offer{
-	position: absolute;
-	display: block;
-	background-color: rgba(75,75,75,0.2);
-	z-index: 999;
-	width: 100%;
-	padding: 50px 0px;
-	top: 0px;
-	height: 100%;
-	transition: 1s;
-}
-
-.offer img{
-	animation: 1500ms bounceIn;
-}
 
 @keyframes bounceIn {
   0% {
